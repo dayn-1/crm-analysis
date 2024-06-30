@@ -297,108 +297,6 @@ convos = {
   ],
   "convo4": [
     {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "Hi there! I'm Emily from TikTok's advertising solutions team. How are you today?"
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Hi Emily, I'm doing well, thank you. How about yourself?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "I'm great, thanks for asking! I'm excited to discuss how TikTok can help your startup increase brand awareness and engagement. Could you tell me a bit about your company and your current marketing strategies?"
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Sure! We're a travel tech company specializing in personalized trip planning apps. Currently, we focus on digital ads and partnerships with travel influencers."
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "That's interesting! TikTok is a fantastic platform for reaching a diverse audience interested in travel and lifestyle. Have you considered leveraging TikTok for your marketing efforts before?"
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "We've thought about it, but we're unsure about the best approach or content that would resonate with our audience."
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "I understand. TikTok offers unique opportunities for brands like yours to showcase travel experiences and engage with users authentically. We can explore various creative strategies tailored to your app's features and audience."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "That sounds promising. How do influencer partnerships on TikTok typically work?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "Influencers can create engaging content that highlights your app's benefits or showcases travel destinations. They can also run challenges or promotions that encourage users to engage with your brand."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Interesting. How do we measure the success of these influencer campaigns?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "We provide detailed analytics on metrics such as video views, engagement rates, and app downloads resulting from the campaign. This data helps optimize future campaigns and maximize ROI."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Do you have any case studies or examples of successful travel brands on TikTok?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "Absolutely! Companies like Wanderlust Adventures have successfully used TikTok to showcase travel destinations, resulting in increased app downloads and brand engagement. I can share more detailed case studies with you later."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "That would be helpful. What are the costs associated with these influencer partnerships?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "Costs vary based on the influencer's reach and engagement rates. We can discuss budget options and find influencers who align with your marketing goals while delivering impactful results."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Sounds good. What are the next steps if we decide to move forward with TikTok influencer partnerships?"
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "We can arrange a follow-up meeting to finalize influencer selection, discuss campaign strategies, and outline budget allocations. I'll prepare a detailed proposal for your review."
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "That sounds like a plan. Let's schedule that follow-up meeting."
-    },
-    {
-      "speaker": "Emily",
-      "role": "salesman",
-      "message": "Great! I'll send you an email with available times for next week. Thank you for your time, Mark. I'm looking forward to helping your company thrive on TikTok!"
-    },
-    {
-      "speaker": "Mark",
-      "role": "customer",
-      "message": "Thank you, Emily. I appreciate your insights and assistance."
-    }
-  ],
-  "convo5": [
-    {
       "speaker": "TikTok Sales Representative (Emily)",
       "role": "salesman",
       "message": "Hi there! I'm Emily from TikTok's advertising team. How are you today?"
@@ -479,7 +377,7 @@ convos = {
       "message": "You too, Emily. Take care!"
     }
   ],
-  "convo6": [
+  "convo5": [
     {
       "speaker": "Alex",
       "role": "salesman",
